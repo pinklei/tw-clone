@@ -1,7 +1,12 @@
 <template>
-    <div>
-      <h1>Home page</h1>
-      <NuxtLink to="/user">user page</NuxtLink>
-    </div>
-  </template>
+  <div>
+    <MainSection title="Home" :loading="loading">
+      cote
+    </MainSection>
+  </div>
+</template>
+<script setup>
+const loading = ref(false)
+
+</script>
   
