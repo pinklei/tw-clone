@@ -40,3 +40,9 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+用户名：leicj
+
+密码：123
+
+图片云管理器 https://console.cloudinary.com/console/c-868eacc876762bca1d1046464c1b44
